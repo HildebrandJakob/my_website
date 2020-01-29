@@ -23,6 +23,7 @@ function cities(){
     var table = document.createElement("table");
 
     //create a header row
+    
     var headerRow = document.createElement("tr");
 
     //add city column to header row
